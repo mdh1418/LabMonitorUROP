@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BME680)(type Legacy)(uri "/Users/mdhwang/Downloads/BME680 2/BME680.mod")(options "")(descr ""))
+)
