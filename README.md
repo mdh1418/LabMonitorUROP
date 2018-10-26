@@ -17,7 +17,7 @@ Materials
 
 After installing the software listed below in the Software section to program the ESP32-DevKitC with Arduino, simply follow the hookup guide outlined in the Adafruit tutorial linked above in the materials list.
 
-### Setup 
+
 
 Materials
 * ESP-Wroom-32 (https://www.espressif.com/en/products/hardware/esp-wroom-32/overview)
@@ -46,8 +46,6 @@ https://github.com/BoschSensortec/BME680_driver
 KiCad (If customizing PCB)
 http://kicad-pcb.org/
 
-MQTT
-https://techtutorialsx.com/2017/04/24/esp32-publishing-messages-to-mqtt-topic/
 
 ### References
 http://esp32.net/
