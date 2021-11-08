@@ -44,7 +44,7 @@ BME680 Driver
 https://github.com/BoschSensortec/BME680_driver
 
 KiCad (If customizing PCB)
-http://kicad-pcb.org/
+http://kicad.org/
 
 
 ### References
